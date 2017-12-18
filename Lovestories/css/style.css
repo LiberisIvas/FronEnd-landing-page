@@ -1,0 +1,111 @@
+body {
+  margin-top: 70px;
+  font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Frank Ruhl Libre', serif !important;
+  font-weight: bold ;
+}
+
+p {
+  font-family: 'Frank Ruhl Libre', serif;
+}
+.logo {
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  width: 100px;
+  height: 97px;
+  object-fit: contain;
+}
+.mynavbar {
+  background: #fff !important;
+  border: 0;
+  font-family: 'Frank Ruhl Libre', serif;
+
+}
+.rightnav {
+  text-align: right !important;
+  position: static;
+  float: right;
+}
+.brand {
+  font-size: 20px;
+  color: #000;
+  font-weight: bold;
+}
+#showcase h1{
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+#showcase img{
+  width: 90%;
+  margin-left: 60px;
+}
+.newcol {
+  width: 333px;
+  height: 178px;
+  margin-top: -150px;
+}
+#showcase .showcase-right{
+  margin-top: 120px;
+  margin-bottom: 60px;
+  border-top: 1px solid;
+  border-color: #E3E3E3;
+  padding-top: 10px;
+}
+.showcase-left {
+  margin-top: 120px;
+  margin-bottom: 60px;
+
+}
+#info1 .info-right {
+  margin-top: 90px;
+}
+#info2 {
+  margin: 20px 0 60px 0;
+}
+
+#sizeguide {
+  color: white;
+
+}
+
+footer {
+  padding: 30px;
+}
+
+.lookbook {
+  width: 71.9px;
+  height: 20px;
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 18px;
+  letter-spacing: 0.1px;
+  text-align: center;
+  color: #121212;
+}
+.myp {
+  margin-left: 205px;
+  margin-bottom: 130px;
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  font-weight: bold;
+
+}
+.myimg {
+  width: 60px;
+  height: 200px;
+}
+.imager {
+  object-fit: contain;
+  float: right;
+}
+.myinput {
+  width: 290px;
+}
+.paskut {
+  margin: 10px;
+}
